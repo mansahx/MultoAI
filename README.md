@@ -141,6 +141,15 @@ Multo AI/
 
 ---
 
+## Screenshots
+<img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/9a739934-b542-446b-9802-c6f93e6b527f" />
+<img width="1920" height="903" alt="image" src="https://github.com/user-attachments/assets/dd137491-cae2-42fe-a360-7035c8bdee78" />
+<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/cffd36b7-07f7-42be-bcb5-86f6e24f68ce" />
+<img width="1920" height="898" alt="image" src="https://github.com/user-attachments/assets/8d9a7cb3-2df6-4b06-a4ae-692f40af9220" />
+<img width="1920" height="901" alt="image" src="https://github.com/user-attachments/assets/37110e66-7123-47b1-9695-c2cce3df8e26" />
+
+---
+
 ## License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
